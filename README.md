@@ -1,6 +1,6 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=1640D6&height=120&section=header' width='100%'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=5272F2&height=120&section=header' width='100%'/>
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+GitHub!+🚀;Sou+desenvolvedor+Front-End;Construo+páginas+e+aplicativos+web;Dê+uma+olhada+nos+meus+projetos!&center=true&vCenter=true&size=35&width=1000&color=3559E0&font='Poppins')
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+GitHub!+🚀;Sou+desenvolvedor+Front-End;Construo+páginas+e+aplicativos+web;Dê+uma+olhada+nos+meus+projetos!&center=true&vCenter=true&size=45&width=1000&color=5272F2&font='Poppins')
 
 <div align='center'>
   <a href='https://www.linkedin.com/in/gustavo-atanazio'>
@@ -8,14 +8,14 @@
   </a>
 </div>
 
-## Sobre mim
-### Meu nome é Gustavo e trabalho com desenvolvimento Front-End a mais de 1 ano. Aqui vão algumas estatísticas do meu perfil:
+### Sobre mim
+#### Meu nome é Gustavo e trabalho com desenvolvimento Front-End a mais de 1 ano. Aqui vão algumas estatísticas do meu perfil:
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=gustavo-atanazio&show_icons=true&theme=dracula&locale=pt-br' alt='Minhas estatísticas do GitHub'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=gustavo-atanazio&show_icons=true&theme=dracula&locale=pt-br&rank_icon=github&line_height=30' alt='Minhas estatísticas do GitHub'/>
 </div>
 
-### Principais ferramentas que utilizo:
+#### Principais ferramentas que utilizo:
 
 <div>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React'/>
