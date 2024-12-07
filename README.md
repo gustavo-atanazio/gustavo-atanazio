@@ -21,30 +21,32 @@
 </div>
 
 ## Habilidades e ferramentas
-[<img src='https://skillicons.dev/icons?i=react'/>](https://react.dev/)
-[<img src='https://skillicons.dev/icons?i=nextjs'/>](https://nextjs.org/docs)
-[<img src='https://skillicons.dev/icons?i=js'/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src='https://skillicons.dev/icons?i=ts'/>](https://www.typescriptlang.org/docs/)
-[<img src='https://skillicons.dev/icons?i=nodejs'/>](https://nodejs.org/en/docs/)
-[<img src='https://skillicons.dev/icons?i=express'/>](https://expressjs.com/en/starter/installing.html)
-[<img src='https://skillicons.dev/icons?i=vite'/>](https://vitejs.dev/guide/)
-[<img src='https://skillicons.dev/icons?i=tailwind'/>](https://tailwindcss.com/docs)
-[<img src='https://skillicons.dev/icons?i=materialui'/>](https://mui.com/material-ui/getting-started/overview/)
-[<img src='https://skillicons.dev/icons?i=figma'/>](https://www.figma.com/resources/)
-[<img src='https://skillicons.dev/icons?i=css'/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src='https://skillicons.dev/icons?i=html'/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src='https://skillicons.dev/icons?i=sass'/>](https://sass-lang.com/documentation/)
-[<img src='https://skillicons.dev/icons?i=graphql'/>](https://graphql.org/learn/)
-[<img src='https://skillicons.dev/icons?i=jest'/>](https://jestjs.io/docs/getting-started)
-[<img src='https://skillicons.dev/icons?i=docker'/>](https://docs.docker.com/)
-[<img src='https://skillicons.dev/icons?i=prisma'/>](https://www.prisma.io/docs/)
-[<img src='https://skillicons.dev/icons?i=sequelize'/>](https://sequelize.org/docs/v6/)
-[<img src='https://skillicons.dev/icons?i=threejs'/>](https://threejs.org/docs/)
-[<img src='https://skillicons.dev/icons?i=python'/>](https://docs.python.org/3/)
-[<img src='https://skillicons.dev/icons?i=unity'/>](https://docs.unity3d.com/)
-[<img src='https://skillicons.dev/icons?i=github'/>](https://docs.github.com/)
-[<img src='https://skillicons.dev/icons?i=vscode'/>](https://code.visualstudio.com/docs)
-[<img src='https://skillicons.dev/icons?i=git'/>](https://git-scm.com/doc)
+<div align='center'>
+  <img src='https://skillicons.dev/icons?i=react' alt='react'/>
+  <img src='https://skillicons.dev/icons?i=nextjs' alt='nextjs'/>
+  <img src='https://skillicons.dev/icons?i=js' alt='js'/>
+  <img src='https://skillicons.dev/icons?i=ts' alt='ts'/>
+  <img src='https://skillicons.dev/icons?i=nodejs' alt='nodejs'/>
+  <img src='https://skillicons.dev/icons?i=express' alt='express'/>
+  <img src='https://skillicons.dev/icons?i=vite' alt='vite'/>
+  <img src='https://skillicons.dev/icons?i=tailwind' alt='tailwind'/>
+  <img src='https://skillicons.dev/icons?i=materialui' alt='materialui'/>
+  <img src='https://skillicons.dev/icons?i=figma' alt='figma'/>
+  <img src='https://skillicons.dev/icons?i=css' alt='css'/>
+  <img src='https://skillicons.dev/icons?i=html' alt='html'/>
+  <img src='https://skillicons.dev/icons?i=sass' alt='sass'/>
+  <img src='https://skillicons.dev/icons?i=graphql' alt='graphql'/>
+  <img src='https://skillicons.dev/icons?i=jest' alt='jest'/>
+  <img src='https://skillicons.dev/icons?i=docker' alt='docker'/>
+  <img src='https://skillicons.dev/icons?i=prisma' alt='prisma'/>
+  <img src='https://skillicons.dev/icons?i=sequelize' alt='sequelize'/>
+  <img src='https://skillicons.dev/icons?i=threejs' alt='threejs'/>
+  <img src='https://skillicons.dev/icons?i=python' alt='python'/>
+  <img src='https://skillicons.dev/icons?i=unity' alt='unity'/>
+  <img src='https://skillicons.dev/icons?i=github' alt='github'/>
+  <img src='https://skillicons.dev/icons?i=vscode' alt='vscode'/>
+  <img src='https://skillicons.dev/icons?i=git' alt='git'/>
+</div>
 
 ## Acadêmico
 [<img align='left' width='100px' style='margin-right: 15px;' alt='FIAP' src='https://th.bing.com/th/id/R.43556329b2bac1c597edb667959dd98c?rik=RgWBjHkgFm1Zag&pid=ImgRaw&r=0'/>](https://www.fiap.com.br/)
