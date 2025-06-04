@@ -31,7 +31,6 @@
   <img src='https://skillicons.dev/icons?i=vite' alt='vite'/>
   <img src='https://skillicons.dev/icons?i=tailwind' alt='tailwind'/>
   <img src='https://skillicons.dev/icons?i=materialui' alt='materialui'/>
-  <img src='https://skillicons.dev/icons?i=figma' alt='figma'/>
   <img src='https://skillicons.dev/icons?i=css' alt='css'/>
   <img src='https://skillicons.dev/icons?i=html' alt='html'/>
   <img src='https://skillicons.dev/icons?i=sass' alt='sass'/>
@@ -39,10 +38,7 @@
   <img src='https://skillicons.dev/icons?i=jest' alt='jest'/>
   <img src='https://skillicons.dev/icons?i=docker' alt='docker'/>
   <img src='https://skillicons.dev/icons?i=prisma' alt='prisma'/>
-  <img src='https://skillicons.dev/icons?i=sequelize' alt='sequelize'/>
-  <img src='https://skillicons.dev/icons?i=threejs' alt='threejs'/>
   <img src='https://skillicons.dev/icons?i=python' alt='python'/>
-  <img src='https://skillicons.dev/icons?i=unity' alt='unity'/>
   <img src='https://skillicons.dev/icons?i=github' alt='github'/>
   <img src='https://skillicons.dev/icons?i=vscode' alt='vscode'/>
   <img src='https://skillicons.dev/icons?i=git' alt='git'/>
