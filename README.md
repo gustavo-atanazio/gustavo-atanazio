@@ -10,7 +10,7 @@
 
 ## Sobre
 - **📌 São Paulo, Brasil**
-- **💻 Desenvolvedor Front-End**
+- **💻 Desenvolvedor Full-Stack**
 - **🎓 Engenharia de Software**
 
 ## Perfil
@@ -26,7 +26,9 @@
   <img src='https://skillicons.dev/icons?i=nextjs' alt='nextjs'/>
   <img src='https://skillicons.dev/icons?i=js' alt='js'/>
   <img src='https://skillicons.dev/icons?i=ts' alt='ts'/>
+  <img src='https://skillicons.dev/icons?i=java' alt='java'/>
   <img src='https://skillicons.dev/icons?i=nodejs' alt='nodejs'/>
+  <img src='https://skillicons.dev/icons?i=spring' alt='spring'/>
   <img src='https://skillicons.dev/icons?i=express' alt='express'/>
   <img src='https://skillicons.dev/icons?i=vite' alt='vite'/>
   <img src='https://skillicons.dev/icons?i=tailwind' alt='tailwind'/>
@@ -45,7 +47,7 @@
 </div>
 
 ## Acadêmico
-[<img align='left' width='100px' style='margin-right: 15px;' alt='FIAP' src='https://th.bing.com/th/id/R.43556329b2bac1c597edb667959dd98c?rik=RgWBjHkgFm1Zag&pid=ImgRaw&r=0'/>](https://www.fiap.com.br/)
+[<img align='left' width='100px' style='margin-right: 15px;' alt='FIAP' src='img/fiap.png'/>](https://www.fiap.com.br/)
 **Engenharia de Software** \
 **FIAP** \
 Graduação focada em formar desenvolvedores _Full Stack_ com conhecimentos em _Cyber Security_ e _Data Driven Thinking_. Preparando profissionais para criar soluções digitais inovadoras e conectar pessoas e empresas.
